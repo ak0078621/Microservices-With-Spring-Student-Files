@@ -1,0 +1,5 @@
+---
+spring:
+  profiles: sentence
+  application:
+    name: my-eureka-client
